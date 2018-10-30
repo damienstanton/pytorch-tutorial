@@ -2,4 +2,6 @@
 *.zip
 data/
 .ipynb_checkpoints
+pytorch_tut_env/
+.mypy_cache/
 
